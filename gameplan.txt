@@ -1,0 +1,9 @@
+Yupeng: Total
+Dan: Fatal
+Cody: NonFatal
+
+-Fit models -- ARIMA and Holt Winters to ~90% (36 points remaining) 
+-Differenced points vs residuals from an OLS? 
+-Do 3 12-step forecasts and 36 one-step forecasts 
+-Calculate MAD, MSE, MAPE, APAPE for each model 
+-
