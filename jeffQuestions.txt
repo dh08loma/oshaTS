@@ -1,0 +1,3 @@
+-Refit OLS time trend on new window of data? 
+-Why the huge gap between adf.test and pp.test (.3 vs .01) 
+
